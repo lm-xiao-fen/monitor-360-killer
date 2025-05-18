@@ -112,7 +112,7 @@
 
 - 版本：1.1.0
 - 最后更新：2025-05-04
-- 作者：lm-xiao-fen，Claude 3.5 Sonnet
+- 作者：lm-xiao-fen,Claude 3.5 Sonnet,Chat-GPT 4o
 - 更新内容：新增 Linux 系统支持 2025-5
 
 ## 授权说明
