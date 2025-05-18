@@ -147,3 +147,6 @@
 ## 许可证
 
 MIT License
+
+## 日志
+[查看 CHANGELOG](./CHANGELOG.md)
