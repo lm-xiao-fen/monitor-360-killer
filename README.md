@@ -8,7 +8,7 @@
 - 自动结束发现的目标进程
 - 提供日志记录功能
 - 支持后台持续运行
-- 支持 Windows 和 Linux 系统
+- 支持 Windows,Linux和MacOS 系统
 
 ## 系统需求
 
