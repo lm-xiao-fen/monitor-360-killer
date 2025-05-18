@@ -53,7 +53,7 @@
 
 2. 执行脚本
    ```bash
-   python monitor_360.py
+   python monitor_360_windows.py
    ```
 
 #### Linux 系统：
@@ -66,14 +66,25 @@
 
 2. 授予执行权限
    ```bash
-   chmod +x monitor_360.py
+   chmod +x monitor_360_liunx.py
    ```
 
 3. 以 root 权限执行脚本
    ```bash
-   sudo python3 monitor_360.py
+   sudo python3 monitor_360_liunx.py  
    ```
+   
+#### MacOS系统：
+在终端执行一下步骤：
 
+1. 切换到脚本所在目录
+   ```bash
+   cd 脚本所在路径
+   ```
+2.以 root 权限执行脚本
+  ```bash
+  sudo python3 monitor_360_macos.py
+  ```
 ### 3. 停止脚本
 按下 `Ctrl + C` 组合键可以停止脚本运行。
 
