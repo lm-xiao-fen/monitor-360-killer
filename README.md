@@ -20,7 +20,13 @@
 ### Linux 系统
 - Linux 操作系统
 - Python 3.6 或更高版本
-- root 权限（建议）
+- root 权限（建议)
+
+### MacOS系统
+- macOS 10.13 或更高版本
+- Python 3.6+
+- root 权限（推荐）
+
 
 ## 安装步骤
 
