@@ -146,7 +146,7 @@
 
 ## 许可证
 
-MIT License
+GPL-3.0 License  
 
 ## 日志
 [查看 CHANGELOG](./CHANGELOG.md)
