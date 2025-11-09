@@ -144,6 +144,13 @@
 
 - 本工具由AI生成，本人不负任何责任。
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=lm-xiao-fen/monitor-360-killer&type=Date)](https://star-history.com/#lm-xiao-fen/monitor-360-killer&Date)
+
+
+## 联系方式
+
 ## 许可证
 
 GPL-3.0 License  
