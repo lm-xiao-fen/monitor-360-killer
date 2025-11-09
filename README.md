@@ -151,6 +151,8 @@
 
 ## 联系方式
 
+[请自行到GitHub主页查看](https://github.com/lm-xiao-fen)
+
 ## 许可证
 
 GPL-3.0 License  
